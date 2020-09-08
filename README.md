@@ -1,7 +1,8 @@
 ### Welcome to bermedDev!
 
-My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the **University of Puerto Rico, Mayagüez Campus**
-I am currently working as a Teaching Assistant for the CIIC4020/ICOM4035 course (Data Structures) right here at UPRM
+My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the **University of Puerto Rico, Mayagüez Campus**.
+
+I am currently working as a **Teaching Assistant** for the **CIIC4020/ICOM4035** course (Data Structures) right here at UPRM
 
 I am also actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.
 
