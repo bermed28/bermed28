@@ -21,4 +21,5 @@ Games (Mario, Frogger, Project Envy) | Done| My Profile|
 I'll also attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!
 
 _**LinkedIn Profile**_: https://linkedin.com/in/bermed28
+
 _**Resume**_: https://drive.google.com/file/d/1Uxu-V8UyZR2B5y8Brq4ZSIObrPSHwM3X/view?usp=sharing
