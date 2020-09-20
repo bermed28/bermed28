@@ -19,8 +19,8 @@ Professional  Website| In Progress | My Profile
 Discord Bots| Done | My profile |
 Flappy Bird | In Progress| https://github.com/albertocruz6/Flappy-Bird-Dev_.git|
 V5 Brain GUI| In Progress| My Profile |
-CIIC Repos  | Done (**CIIC4010/4020**), In Progress (**CIIC4030**)| My Profile|
-CIIC Labs/Exams| Done| My Profile |
+Course Repos  | Done (**CIIC4010/4020**), In Progress (**CIIC4030**)| My Profile|
+Course Labs/Exams| Done| My Profile |
 Games (Mario, Frogger, Project Envy) | Done| My Profile|
 
 I'll also attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!
