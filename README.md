@@ -27,4 +27,4 @@ I'll also attach my LinkedIn Profile and my Resume just in case you need it anyt
 
 _**LinkedIn Profile**_: https://linkedin.com/in/bermed28
 
-_**Resume**_: https://drive.google.com/file/d/1Ckp3PsmMcgKjnVjHqeM88WWahs4Vl4b7/view?usp=sharing
+_**Resume**_: https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing
