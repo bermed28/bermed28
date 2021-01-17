@@ -16,9 +16,9 @@ Projects that are marked as **Done** have their repo's available to see in this 
 Project     | Progress | Location
 ----------- | -------- |--------|
   Web App | In Progress | Coming Spring 2021
-Discord Bots| Done | My profile |
+Discord Bots| Done |  https://github.com/bermed28/bot-discord.git|
 Flappy Bird | In Progress| https://github.com/albertocruz6/Flappy-Bird-Dev_.git|
-V5 Brain GUI| In Progress| My Profile |
+V5 Brain GUI| In Progress| Coming Soon |
 Course Repos  | Done (**CIIC4010/4020/4030**)| My Profile|
 Course Labs/Exams| Done| My Profile |
 Games (Mario, Frogger, Project Envy) | Done| My Profile|
