@@ -28,3 +28,10 @@ I'll also attach my LinkedIn Profile and my Resume just in case you need it anyt
 _**LinkedIn Profile**_: https://linkedin.com/in/bermed28
 
 _**Resume**_: https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing
+
+[![Fernando's Stats](https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bermed28&theme=nord" />
+</a><br/><br/><br/><br/><br/><br/><br/>
