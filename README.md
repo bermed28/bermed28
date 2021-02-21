@@ -1,36 +1,93 @@
 ### Welcome to bermedDev!
 
-- My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the **University of Puerto Rico, Mayagüez Campus**.
+<hr>
+<!--Personal Information-->
+<details>
+  <summary>A little bit about me</summary>  
+  <ul>
+    <li><p> My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
+    <li>I am currently working as a <strong>Teaching Assistant</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
+    <li>I am also actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
+    <li>I am also very open to collaborate in any projects!</li>
+  </ul>
+</details>
 
-- I am currently working as a **Teaching Assistant** for the **CIIC4020/ICOM4035** course (Data Structures) right here at UPRM
+<!--Projects Table-->
+<details>
+  <summary>Project Information</summary>
+  <ul>
+  <li>In this GitHub Profile you will see that I will upload some personal projects, as well as some classwork projects from the courses I'm taking this semester.</li>
+  <li>Below is a table showing some projects I am working on that are in development or are ready to go!</li>
+    <li>Projects that are marked as <strong>Done</strong> have their repo's available to see in this profile, the one's that are <strong>In Progress</strong> are mostly private, so you'll have to wait a bit more to find out what were developing! So keep checking this profile to see what's changed and feel free to contact me any time!</li>
+  </ul>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Project</th>
+    <th class="tg-c3ow">Progress</th>
+    <th class="tg-c3ow">Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Web App</td>
+    <td class="tg-c3ow">In Progress</td>
+    <td class="tg-c3ow">Coming Spring 2021 to my GitHub Profile</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Discord Bots</td>
+    <td class="tg-c3ow">Done</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/bot-discord.git" target="_blank" rel="noopener noreferrer">My Repo</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Flappy Bird</td>
+    <td class="tg-c3ow">In Progress</td>
+    <td class="tg-c3ow"><a href="https://github.com/albertocruz6/Flappy-Bird-Dev_.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Course Repos</td>
+    <td class="tg-c3ow">Done (<span style="font-weight:bold">CIIC4010/4020/4030</span>)</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">My Profile</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Course Labs</td>
+    <td class="tg-c3ow">Done</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">My Profile</a></td>
+  </tr>
+</tbody>
+</table>
 
-- I am also actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.
+</details>
 
-- I am also very open to collaborate in any projects! 
+<!--Some GitHub Embeds-->
+<details>
+  <summary>My GitHub Statistics</summary>
+  <p align="center">
+    <img src"https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true&theme=chartreuse-dark"/>
+  </p>
+</details>
 
-In this GitHub Profile you will see that I will upload some personal proyects, as well as some classwork projects from the CIIC courses I'm taking this semester.
-Below is a table showing some projects I am working on that are in development or are ready to go!
+<details>
+  <summary>Programming Language Statistics</summary>
+  <p align="center">
+    <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact&theme=chartreuse-dark"/>
+  </p>
+</details>
 
-Projects that are marked as **Done** have their repo's available to see in this profile, the one's that are **In Progress** are mostly private, so you'll have to wait a bit more to find out what were developing! So keep checking this profile to see what's changed and feel free to contact me any time!
+<!--Social Media + Resume-->
+<p>I'll attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!</p>
+<p align="center">
+  <a href="https://linkedin.com/in/bermed28"> 
+    <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613925506~hmac=db25ab5566c109c7fe580c07bbcbcf35" height="30px" width="30px">
+  </a>
+  <a href="https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing"> 
+    <img src="https://www.flaticon.com/svg/vstatic/svg/909/909212.svg?token=exp=1613925549~hmac=9a0c31896e4bb5654c613be0e8a54cd5" height="30px" width="30px">
+  </a>
+ </p>
 
-Project     | Progress | Location
------------ | -------- |--------|
-  Web App | In Progress | Coming Spring 2021
-Discord Bots| Done |  https://github.com/bermed28/bot-discord.git|
-Flappy Bird | In Progress| https://github.com/albertocruz6/Flappy-Bird-Dev_.git|
-V5 Brain GUI| In Progress| Coming Soon |
-Course Repos  | Done (**CIIC4010/4020/4030**)| My Profile|
-Course Labs/Exams| Done| My Profile |
-Games (Mario, Frogger, Project Envy) | Done| My Profile|
+</hr>
 
-I'll also attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!
 
-_**LinkedIn Profile**_: https://linkedin.com/in/bermed28
 
-_**Resume**_: https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing
 
-[![Fernando's Stats](https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://wakatime.com/share/@bermed28/42262773-e735-47da-86ec-5db78ed03022.svg" style="width: 150px; height: 150px"/>
 
