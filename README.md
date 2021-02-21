@@ -63,14 +63,21 @@
 <details>
   <summary>My GitHub Statistics</summary>
   <p align="center">
-    <img src"https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true"/>
   </p>
 </details>
 
 <details>
   <summary>Programming Language Statistics</summary>
   <p align="center">
-    <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact"/>
+  </p>
+</details>
+
+<details>
+  <summary>My Most Used Editors</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@bermed28/5e35e06c-44c5-4378-bc20-0263a818dda3.svg" height="400"/>
   </p>
 </details>
 
