@@ -32,5 +32,5 @@ _**Resume**_: https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/
 [![Fernando's Stats](https://github-readme-stats.vercel.app/api?username=bermed28&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermed28&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@bermed28/42262773-e735-47da-86ec-5db78ed03022.svg"/>
+<img src="https://wakatime.com/share/@bermed28/42262773-e735-47da-86ec-5db78ed03022.svg" style="width: 150px; height: 150px"/>
 
