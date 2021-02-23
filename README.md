@@ -88,7 +88,7 @@
     <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613925506~hmac=db25ab5566c109c7fe580c07bbcbcf35" height="30px" width="30px">
   </a>
   <a href="https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing"> 
-    <img src="https://www.flaticon.com/svg/vstatic/svg/909/909212.svg?token=exp=1613925549~hmac=9a0c31896e4bb5654c613be0e8a54cd5" height="30px" width="30px">
+    <img src="https://icon-library.com/images/resume-icon/resume-icon-3.jpg" height="30px" width="30px">
   </a>
  </p>
 
