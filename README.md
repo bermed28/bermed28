@@ -85,10 +85,10 @@
 <p>I'll attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!</p>
 <p align="center">
   <a href="https://linkedin.com/in/bermed28"> 
-    <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613925506~hmac=db25ab5566c109c7fe580c07bbcbcf35" height="30px" width="30px">
+    <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613925506~hmac=db25ab5566c109c7fe580c07bbcbcf35" height="90px" width="90px">
   </a>
   <a href="https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing"> 
-    <img src="https://icon-library.com/images/resume-icon/resume-icon-3.jpg" height="30px" width="30px">
+    <img src="https://icon-library.com/images/resume-icon/resume-icon-3.jpg" height="90px" width="90px">
   </a>
  </p>
 
