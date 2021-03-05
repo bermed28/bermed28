@@ -88,7 +88,7 @@
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
   <a href="https://drive.google.com/file/d/14iK8WU2k4nNb4yC8TNJCDhk2lC-M3PTt/view?usp=sharing"> 
-    <img src="resume-icon-3.jpg" height="60px" width="60px">
+    <img src="resume-icon-3.png" height="60px" width="60px">
   </a>
  </p>
 
