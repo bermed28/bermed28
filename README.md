@@ -6,7 +6,8 @@
   <summary>A little bit about me</summary>  
   <ul>
     <li><p> My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
-    <li>I am currently working as a <strong>Teaching Assistant</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
+    <li>I am an upcoming Software Development Engineering Intern at Amazon</li>
+    <li>I am currently working as an <strong>Instrcutor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
     <li>I am also actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
     <li>I am also very open to collaborate in any projects!</li>
   </ul>
