@@ -33,7 +33,7 @@
   <tr>
     <td class="tg-c3ow">Web App - My Backlog Handler</td>
     <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/uprm-inso-4101-2020-2021-s2/semester-project-stack-overflowers">Web App's Deployed Repository</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/my-backlog-handler">My Repo</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Discord Bots</td>
