@@ -36,9 +36,9 @@
     <td class="tg-c3ow"><a href="https://github.com/bermed28/my-backlog-handler">My Repo</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Discord Bots</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/bot-discord.git" target="_blank" rel="noopener noreferrer">My Repo</a></td>
+    <td class="tg-c3ow">Web App - Booking System</td>
+    <td class="tg-c3ow">In Progress</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/" target="_blank" rel="noopener noreferrer">My Profile</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Flappy Bird</td>
