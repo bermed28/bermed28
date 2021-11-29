@@ -5,11 +5,11 @@
 <details>
   <summary>A little bit about me</summary>  
   <ul>
-    <li><p> My name is Fernando J. Bermúdez Medina. I am a junior Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
-    <li>I was a Software Development Engineering Intern at Amazon this past Summer, working in the Devices Organization under the Echo Platform Performance Team</li>
+    <li><p> My name is Fernando J. Bermúdez Medina. I am a senior Software Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
+    <li>I was a Software Development Engineering Intern at <strong>Amazon</strong> this past Summer, and plan to start working as a Software Engineering Intern next summer with <strong>Facebook</strong>!</li>
     <li>I am currently working as an <strong>Instrcutor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
-    <li>I am also actively seeking some summer intenships (or Co-Ops if any) that can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
-    <li>I am also very open to collaborate in any projects!</li>
+    <li>Some of my technical skills include Data Structures & Algorithms; knowledge in languages like C, C++, Java, Python, JavaScript, SQL; knowledge in web frameworks such as Django, Flask, React.js, Bootstrap and many more; and finally knowledge in theoretical computer science like Operating Systems concepts, Computer Architecture and more</li>
+    <li>I am also actively seeking some summer intenships (or Co-Ops if any) thet can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
   </ul>
 </details>
 
