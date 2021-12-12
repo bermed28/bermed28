@@ -37,8 +37,8 @@
   </tr>
   <tr>
     <td class="tg-c3ow">Web App - Booking System</td>
-    <td class="tg-c3ow">In Progress</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/" target="_blank" rel="noopener noreferrer">My Profile</a></td>
+    <td class="tg-c3ow">Done</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/booking-system.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Flappy Bird</td>
