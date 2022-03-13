@@ -41,9 +41,9 @@
     <td class="tg-c3ow"><a href="https://github.com/bermed28/booking-system.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Flappy Bird</td>
+    <td class="tg-c3ow">Mobile App - ToDo Buddy</td>
     <td class="tg-c3ow">In Progress</td>
-    <td class="tg-c3ow"><a href="https://github.com/albertocruz6/Flappy-Bird-Dev_.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/todo-buddy.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Course Repos</td>
