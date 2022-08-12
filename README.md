@@ -88,7 +88,7 @@
   <a href="https://linkedin.com/in/bermed28"> 
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
-  <a href="https://drive.google.com/file/d/1UnZxB7MBgfIsd_lny0S9RKZ6nY6XF01N/view?usp=sharing"> 
+  <a href="https://drive.google.com/file/d/1uSSG-JqTHoobNC16Ks4hvtFeikxcEUTL/view?usp=sharing"> 
     <img src="resume-icon-3.png" height="60px" width="60px">
   </a>
  </p>
