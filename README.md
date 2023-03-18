@@ -31,9 +31,14 @@
 </thead>
 <tbody>
   <tr>
+    <td class="tg-c3ow">Mobile App - Tuter (Capstone Project)</td>
+    <td class="tg-c3ow">Done</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/ciic4151-group-c-tuter" target="_blank" rel="noopener noreferrer">This Repo</a></td>
+  </tr>
+  <tr>
     <td class="tg-c3ow">Web App - My Backlog Handler</td>
     <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/my-backlog-handler">My Repo</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/my-backlog-handler">This Repo</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Web App - Booking System</td>
@@ -44,16 +49,6 @@
     <td class="tg-c3ow">Mobile App - ToDo Buddy</td>
     <td class="tg-c3ow">In Progress</td>
     <td class="tg-c3ow"><a href="https://github.com/bermed28/todo-buddy.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Course Repos</td>
-    <td class="tg-c3ow">Done (<span style="font-weight:bold">CIIC4010/4020/4030</span>)</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">My Profile</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Course Labs</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">My Profile</a></td>
   </tr>
 </tbody>
 </table>
