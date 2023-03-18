@@ -6,11 +6,10 @@
   <summary>A little bit about me</summary>  
   <ul>
     <li><p> My name is Fernando J. Bermúdez Medina. I am a senior Computer Science & Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
-        <li>I am exepcted to start working as a Software Engineer at <strong>Apple</strong> under the Evolve Rotational program in Seattle, WA upon graduation in July, 2023.</li>
+        <li>I am expected to start working as a Software Engineer at <strong>Apple</strong> under the Evolve Rotational program in Seattle, WA upon graduation in July, 2023.</li>
     <li>I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
     <li>I am currently working as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
     <li>Some of my technical skills include Data Structures & Algorithms; knowledge in languages like C, C++, Java, Python, JavaScript, SQL; knowledge in web frameworks such as Django, Flask, React.js, Bootstrap and many more; and finally knowledge in theoretical computer science like Operating Systems concepts, Computer Architecture and more</li>
-    <li>I am also actively seeking some summer intenships (or Co-Ops if any) thet can allow me to increase my skills in the field of Software Engineering and Computer Science.</li>
   </ul>
 </details>
 
