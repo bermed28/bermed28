@@ -84,14 +84,14 @@
 </details>
 
 <!--Social Media + Resume-->
-<p>I'll attach my LinkedIn Profile and my Resume just in case you need it anytime soon, thanks for visiting!</p>
+<p>I'll attach my LinkedIn Profile just in case you want to take a look at it anytime soon, thanks for visiting!</p>
 <p align="center">
   <a href="https://linkedin.com/in/bermed28"> 
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
-  <a href="https://drive.google.com/file/d/1uSSG-JqTHoobNC16Ks4hvtFeikxcEUTL/view?usp=sharing"> 
+<!--   <a href="https://drive.google.com/file/d/1uSSG-JqTHoobNC16Ks4hvtFeikxcEUTL/view?usp=sharing"> 
     <img src="resume-icon-3.png" height="60px" width="60px">
-  </a>
+  </a> -->
  </p>
 
 </hr>
