@@ -5,10 +5,10 @@
 <details>
   <summary>A little bit about me</summary>  
   <ul>
-    <li><p> My name is Fernando J. Bermúdez Medina. I am a senior Computer Science & Engineering Undegraduate Student at the <strong> University of Puerto Rico, Mayagüez Campus</strong>.</p></li>
-        <li>I am expected to start working as a Software Engineer at <strong>Apple</strong> under the Evolve Rotational program in Seattle, WA upon graduation in July, 2023.</li>
-    <li>I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
-    <li>I am currently working as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) right here at UPRM</li>
+    <li>My name is Fernando J. Bermúdez Medina. I am an incoming Software Engineer at <strong>Apple</strong></li>
+    <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering.</li>
+    <li>While ding undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
+    <li>I also worked as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) in UPRM from 2020-2023.</li>
     <li>Some of my technical skills include Data Structures & Algorithms; knowledge in languages like C, C++, Java, Python, JavaScript, SQL; knowledge in web frameworks such as Django, Flask, React.js, Bootstrap and many more; and finally knowledge in theoretical computer science like Operating Systems concepts, Computer Architecture and more</li>
   </ul>
 </details>
@@ -17,9 +17,8 @@
 <details>
   <summary>Project Information</summary>
   <ul>
-  <li>In this GitHub Profile you will see that I will upload some personal projects, as well as some classwork projects from the courses I'm taking this semester.</li>
-  <li>Below is a table showing some projects I am working on that are in development or are ready to go!</li>
-    <li>Projects that are marked as <strong>Done</strong> have their repo's available to see in this profile, the one's that are <strong>In Progress</strong> are mostly private, so you'll have to wait a bit more to find out what were developing! So keep checking this profile to see what's changed and feel free to contact me any time!</li>
+  <li>In this GitHub Profile you will see that I will upload some personal projects, as well as some classwork projects from the courses made while I was studying at UPRM.</li>
+  <li>Below is a table showing some projects that showcase my skills and progress as ana engineer</li>
   </ul>
 <table class="tg">
 <thead>
@@ -30,6 +29,11 @@
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-c3ow">AI & ML Projects</td>
+    <td class="tg-c3ow">Done</td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28/ciic5015-projects" target="_blank" rel="noopener noreferrer">This Repo</a></td>
+  </tr>
   <tr>
     <td class="tg-c3ow">Mobile App - Tuter (Capstone Project)</td>
     <td class="tg-c3ow">Done</td>
@@ -47,7 +51,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">Mobile App - ToDo Buddy</td>
-    <td class="tg-c3ow">In Progress</td>
+    <td class="tg-c3ow">Done</td>
     <td class="tg-c3ow"><a href="https://github.com/bermed28/todo-buddy.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
   </tr>
 </tbody>
@@ -70,12 +74,14 @@
   </p>
 </details>
 
+<!--
 <details>
   <summary>My Most Used Editors</summary>
   <p align="center">
     <img src="https://wakatime.com/share/@bermed28/5e35e06c-44c5-4378-bc20-0263a818dda3.svg" height="400"/>
   </p>
 </details>
+-->
 
 <!--Social Media + Resume-->
 <p>I'll attach my LinkedIn Profile just in case you want to take a look at it anytime soon, thanks for visiting!</p>
