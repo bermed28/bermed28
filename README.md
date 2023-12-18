@@ -5,9 +5,10 @@
 <details>
   <summary>A little bit about me</summary>  
   <ul>
-    <li>My name is Fernando J. Bermúdez Medina. I am an incoming Software Engineer at <strong>Apple</strong></li>
+    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong></li> mostly doing Data Engineering work in Apple Maps
     <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering.</li>
-    <li>While ding undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
+    <li>While working at Apple, I am expected to begin on Januray 2024 a Master of Science in Computer science from the Georgia Institute of Technology</li>
+    <li>While doing undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
     <li>I also worked as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) in UPRM from 2020-2023.</li>
     <li>Some of my technical skills include Data Structures & Algorithms; knowledge in languages like C, C++, Java, Python, JavaScript, SQL; knowledge in web frameworks such as Django, Flask, React.js, Bootstrap and many more; and finally knowledge in theoretical computer science like Operating Systems concepts, Computer Architecture and more</li>
   </ul>
@@ -15,7 +16,7 @@
 
 <!--Projects Table-->
 <details>
-  <summary>Project Information</summary>
+  <summary>Personal Project Information</summary>
   <ul>
   <li>In this GitHub Profile you will see that I will upload some personal projects, as well as some classwork projects from the courses made while I was studying at UPRM.</li>
   <li>Below is a table showing some projects that showcase my skills and progress as ana engineer</li>
