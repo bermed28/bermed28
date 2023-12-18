@@ -5,7 +5,7 @@
 <details>
   <summary>A little bit about me</summary>  
   <ul>
-    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong></li> mostly doing Data Engineering work in Apple Maps
+    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> mostly doing Data Engineering work in Apple Maps </li>
     <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering.</li>
     <li>While working at Apple, I am expected to begin on Januray 2024 a Master of Science in Computer science from the Georgia Institute of Technology</li>
     <li>While doing undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
