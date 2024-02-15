@@ -1,16 +1,22 @@
-### Welcome to bermedDev!
+### Welcome to my GitHub Page!
 
 <hr>
 <!--Personal Information-->
 <details>
-  <summary>A little bit about me</summary>  
+  <summary>Who Am I?</summary>  
   <ul>
-    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> mostly doing Data Engineering work in Apple Maps </li>
-    <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering.</li>
-    <li>While working at Apple, I am expected to begin on Januray 2024 a Master of Science in Computer science from the Georgia Institute of Technology</li>
+    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program. In my current rotation I'm working as a Data Engineer in Apple Maps </li>
+    <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering. I am currently pursuing a Master of Science in Computer Science, with a specialization in Machine Learning, from the <strong>Georgia Institute of Technology</strong></li>
     <li>While doing undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
     <li>I also worked as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) in UPRM from 2020-2023.</li>
-    <li>Some of my technical skills include Data Structures & Algorithms; knowledge in languages like C, C++, Java, Python, JavaScript, SQL; knowledge in web frameworks such as Django, Flask, React.js, Bootstrap and many more; and finally knowledge in theoretical computer science like Operating Systems concepts, Computer Architecture and more</li>
+    <li>Some of my technical skills & interests include the following:
+      <ol>
+        <li>Machine Learning (PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy, etc.)</li>
+        <li>Data Engineering (Spark, AWS S3, Hadoop HDFS, Data Pipeline Design & Automation, etc.)</li>
+        <li>Full Stack Web Development & DevOps (React, Node.js, JavaScript/TypeScript, Flask, PostgreSQL, Docker, Kubernetes)</li>
+        <li>iOS Development (Swift, Objective-C, React Native)</li>
+      </ol>
+    </li>
   </ul>
 </details>
 
