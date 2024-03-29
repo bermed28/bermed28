@@ -39,7 +39,7 @@
   <tr>
     <td class="tg-c3ow">AI & ML Projects</td>
     <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/ciic5015-projects" target="_blank" rel="noopener noreferrer">This Repo</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">CIIC5015 & CS7641 Repos</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Mobile App - Tuter (Capstone Project)</td>
