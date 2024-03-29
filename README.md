@@ -5,7 +5,7 @@
 <details>
   <summary>Who Am I?</summary>  
   <ul>
-    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program. In my current rotation I'm working as a Applied Machine Learning ResearchEngineer in the Personalized Recommendations Video Science Team under the Apple Services Engineering Organization </li>
+    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program. In my current rotation I'm working as a Applied Machine Learning Research Engineer in the Personalized Recommendations Video Science Team under the Apple Services Engineering Organization </li>
     <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering. I am currently pursuing a Master of Science in Computer Science, with a specialization in Machine Learning, from the <strong>Georgia Institute of Technology</strong></li>
     <li>While doing undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
     <li>I also worked as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) in UPRM from 2020-2023.</li>
