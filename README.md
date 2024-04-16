@@ -1,32 +1,54 @@
 ### Welcome to my GitHub Page!
 
-<hr>
-<!--Personal Information-->
+---
+
 <details>
-  <summary>Who Am I?</summary>  
-  <ul>
-    <li>My name is Fernando J. Bermúdez Medina. I am Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program. In my current rotation I'm working as a Applied Machine Learning Research Engineer in the Personalized Recommendations Video Science Team under the Apple Services Engineering Organization </li>
-    <li>I graduated from the <strong> University of Puerto Rico, Mayagüez Campus</strong> with a Bachelor of Science in Computer Science & Engineering. I am currently pursuing a Master of Science in Computer Science, with a specialization in Machine Learning, from the <strong>Georgia Institute of Technology</strong></li>
-    <li>While doing undergradate studies, I was a Software Development Engineering Intern at <strong>Amazon</strong> in Summer 2021, and a Software Engineering Intern in Summer 2022 with <strong>Meta</strong>!</li>
-    <li>I also worked as an <strong>Instructor</strong> for the <strong>CIIC4020/ICOM4035</strong> course (Data Structures) in UPRM from 2020-2023.</li>
-    <li>Some of my technical skills & interests include the following:
-      <ol>
-        <li>Machine Learning (PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy, etc.)</li>
-        <li>Data Engineering (Spark, AWS S3, Hadoop HDFS, Data Pipeline Design & Automation, etc.)</li>
-        <li>Full Stack Web Development & DevOps (React, Node.js, JavaScript/TypeScript, Flask, PostgreSQL, Docker, Kubernetes)</li>
-        <li>iOS Development (Swift, Objective-C, React Native)</li>
-      </ol>
-    </li>
-  </ul>
+  <summary>About Me</summary> 
+
+  ### Who are you? Where are you from?
+  * My name is Fernando J. Bermúdez Medina!
+  * I am currently living in Seattle, WA, but I'm originally from Ponce, PR!
+
+  ---
+  
+  ### What do you do for a living?
+  * I am currently Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program.
+    * In my current rotation I'm working as a Applied Machine Learning Research Engineer in the AMP AI/ML Video Recommendations Team under the Apple Services Engineering Organization
+    * Previously, I worked as a Data Engineer on the Eval Searc & Auto-Complete Data Scienc team under the Maps Organization
+
+  ---
+  
+  ### Where did/are you going to school?
+  * I obtained a Bachelor of Science in Computer Science & Engineering from the University of Puerto Rico - Mayagüez Campus.
+  * I am currently in the process of obtaining my Master of Science in Computer Science (with a specialization in Machine Learning) from the Georgia Institute of Technology.
+
+  ---
+  
+  ### Did you do any internships before graduating?
+  * I did! I was a Software Development Engineering Intern at Amazon in Summer 2021, and a Software Engineering Intern in Summer 2022 with Meta!
+  * I also worked as an Instructor for the Data Structures course in UPRM from 2020-2023.
+
+  ---
+  
+  ### What are your technical skills & interests?
+  * Machine Learning
+    * PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy
+  * Data Engineering
+    * Spark, AWS S3, Hadoop HDFS, Data Pipeline Design & Automation
+  * Full Stack Web Development & DevOps
+    * React, Node.js, JavaScript/TypeScript, Flask, PostgreSQL, Docker, Kubernetes
+  * iOS Development
+    * Swift, Objective-C, React Native
+
 </details>
 
 <!--Projects Table-->
 <details>
   <summary>Personal Project Information</summary>
-  <ul>
-  <li>In this GitHub Profile you will see that I will upload some personal projects, as well as some classwork projects from the courses made while I was studying at UPRM.</li>
-  <li>Below is a table showing some projects that showcase my skills and progress as ana engineer</li>
-  </ul>
+
+  ### What is this GitHub Page For?
+  Even though I am a software engineer at Apple, I keep in this GitHub all my personal projects, as well as projects from the courses made while I was studying at UPRM & Georgia Tech.
+
 <table class="tg">
 <thead>
   <tr>
@@ -91,19 +113,12 @@
 -->
 
 <!--Social Media + Resume-->
-<p>I'll attach my LinkedIn Profile just in case you want to take a look at it anytime soon, thanks for visiting!</p>
-<p align="center">
+I'll attach my LinkedIn Profile just in case you want to take a look at it anytime soon, thanks for visiting!
+<div align="center">
   <a href="https://linkedin.com/in/bermed28"> 
     <img src="LinkedIn.png" height="60px" width="60px">
   </a>
-<!--   <a href="https://drive.google.com/file/d/1uSSG-JqTHoobNC16Ks4hvtFeikxcEUTL/view?usp=sharing"> 
+<!--   <a href="add_resume_link_here"> 
     <img src="resume-icon-3.png" height="60px" width="60px">
   </a> -->
- </p>
-
-</hr>
-
-
-
-
-
+</div>
