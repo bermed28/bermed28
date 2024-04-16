@@ -49,42 +49,12 @@
   ### What is this GitHub Page For?
   Even though I am a software engineer at Apple, I keep in this GitHub all my personal projects, as well as projects from the courses made while I was studying at UPRM & Georgia Tech.
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow">Project</th>
-    <th class="tg-c3ow">Progress</th>
-    <th class="tg-c3ow">Location</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">AI & ML Projects</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28" target="_blank" rel="noopener noreferrer">CIIC5015 & CS7641 Repos</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Mobile App - Tuter (Capstone Project)</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/ciic4151-group-c-tuter" target="_blank" rel="noopener noreferrer">This Repo</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Web App - My Backlog Handler</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/my-backlog-handler">This Repo</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Web App - Booking System</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/booking-system.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Mobile App - ToDo Buddy</td>
-    <td class="tg-c3ow">Done</td>
-    <td class="tg-c3ow"><a href="https://github.com/bermed28/todo-buddy.git" target="_blank" rel="noopener noreferrer">This Repo</a></td>
-  </tr>
-</tbody>
-</table>
+  Project     | Location
+ ----------- | --------|
+ CS 7641 (ML) Assignments | [My Pinned Projects](https://github.com/bermed28) |
+ CIIC 5015 (AI) Projects | [My Pinned Projects](https://github.com/bermed28) |
+ Capstone Project|  [This Repo](https://github.com/bermed28/ciic4151-group-c-tuter) |
+ Other Projects | [My Profile](https://github.com/bermed28)|
 
 </details>
 
