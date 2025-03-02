@@ -12,9 +12,11 @@
   ---
   
   ### What do you do for a living?
-  * I am currently Software Engineer at <strong>Apple</strong> as part of the Evolve Rotational Program.
-    * In my current rotation I'm working as a Applied Machine Learning Research Engineer in the AMP AI/ML Video Recommendations Team under the Apple Services Engineering Organization
-    * Previously, I worked as a Data Engineer on the Eval Searc & Auto-Complete Data Scienc team under the Maps Organization
+  * I am currently a Software Engineer at <strong>Apple</strong> as part of the Applebot Crawl Quality team on the AIML's Machine Learning, Platform, Tooling & Infrastructure organization.
+  * Previously I was part of the Evolve Rotational Program hosted in the Services organization.
+    * In my first rotation, I worked as a Data Engineer on the Evaluation Search & Auto-Complete Data Science team under the Maps organization.
+    * In my second rotation I worked as a Applied Machine Learning Research Engineer in the Apple Media Products AI/ML Video Recommendations Team under the Apple Services Engineering organization.
+    * In my third & last rotation I worked as an iOS Engineer in the Apple Pay Security Identity Verification team under the Wallet, Payments, Commerce organization.
 
   ---
   
@@ -32,7 +34,7 @@
   
   ### What are your technical skills & interests?
   * Machine Learning
-    * PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy
+    * PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy, Matplotlib
   * Data Engineering
     * Spark, AWS S3, Hadoop HDFS, Data Pipeline Design & Automation
   * Full Stack Web Development & DevOps
